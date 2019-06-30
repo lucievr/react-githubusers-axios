@@ -6,10 +6,12 @@ body {
     margin: 0;
     text-align: center;
     background-color: rgb(210, 247, 242);
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-    color: green;
+    color: rgb(255, 77, 122);
+    letter-spacing: 2px;
 }
 
 .container {
@@ -23,6 +25,14 @@ div.user {
     margin: 20px;
     padding: 20px;
     max-width: 300px;
+}
+
+div.user span {
+    font-weight: bold;
+}
+
+h2 {
+    letter-spacing: 1px;
 }
 
 img {

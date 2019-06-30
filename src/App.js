@@ -14,6 +14,15 @@ class App extends React.Component {
         <GithubUserInfo username="emmawedekind"/>
         <GithubUserInfo username="manoloide"/>
         <GithubUserInfo username="wesbos"/>
+        <GithubUserInfo username="sdras"/>
+        <GithubUserInfo username="aneagoie"/>
+        <GithubUserInfo username="btholt"/>
+        <GithubUserInfo username="SaraVieira"/>
+        <GithubUserInfo username="gaearon"/>
+        <GithubUserInfo username="jlengstorf"/>
+        <GithubUserInfo username="kentcdodds"/>
+        <GithubUserInfo username="charliegerard"/>
+        <GithubUserInfo username="aspittel"/>
         </div>
       </div>
     );

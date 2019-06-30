@@ -30,7 +30,7 @@ class GithubUserInfo extends React.Component {
             <h2>{this.state.user.login} ({this.state.user.name})</h2>
             <img src={this.state.user.avatar_url} />
             <p>{this.state.user.bio}</p>
-            <p>Number of public repos: {this.state.user.public_repos}</p>
+            <p><span>Number of public repos:</span> {this.state.user.public_repos}</p>
           </div>
         )
     }
